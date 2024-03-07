@@ -15,5 +15,4 @@ public:
     void draw();
 
     Hand hand;
-    ofVideoGrabber cam; // Camera object
 };
